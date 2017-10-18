@@ -21,7 +21,6 @@ export class HobbiesComponent implements OnInit {
    */
   constructor(private logger:LogService) { 
     this.logger.info(`title is ${hobbiesTitle} !!!!`);
-
   }
 
   /**
